@@ -1,0 +1,113 @@
+GRAMMAR:
+S->(S)|SCS|SC|CS
+S->P(T)
+S->S=S
+S->QX
+S->w|x|y|z|C|D
+P->P|Q
+X->X,X|w|x|y|z|C|D
+T->T,T|w|x|y|z|C|D|<epsilon>
+C->C,C|\land|\lor|\implies|\iff|\neg
+
+......
+ORIGINAL DATA COLLECTED FROM INPUT: 
+ variables:['w', 'x', 'y', 'z']
+constants: ['C', 'D']
+predicates and their 'arity': {'P': 2, 'Q': 1}
+ equality: ['='], connectives: ['\\land', '\\lor', '\\implies', '\\iff', '\\neg'],quantifiers: ['\\exists', '\\forall']GRAMMAR:
+S->(S)|SCS|SC|CS
+S->P(T)
+S->S=S
+S->QX
+S->w|x|y|z|C|D
+P->P|Q
+X->X,X|w|x|y|z|C|D
+T->T,T|w|x|y|z|C|D|<epsilon>
+C->C,C|\land|\lor|\implies|\iff|\neg
+
+......
+ORIGINAL DATA COLLECTED FROM INPUT: 
+ variables:['w', 'x', 'y', 'z']
+constants: ['C', 'D']
+predicates and their 'arity': {'P': 2, 'Q': 1}
+ equality: ['='], connectives: ['\\land', '\\lor', '\\implies', '\\iff', '\\neg'],quantifiers: ['\\exists', '\\forall']GRAMMAR:
+S->(S)|SCS|SC|CS
+S->P(T)
+S->S=S
+S->QX
+S->w|x|y|z|C|D
+P->P|Q
+X->X,X|w|x|y|z|C|D
+T->T,T|w|x|y|z|C|D|<epsilon>
+C->C,C|\land|\lor|\implies|\iff|\neg
+
+......
+ORIGINAL DATA COLLECTED FROM INPUT: 
+ variables:['w', 'x', 'y', 'z']
+constants: ['C', 'D']
+predicates and their 'arity': {'P': 2, 'Q': 1}
+ equality: ['='], connectives: ['\\land', '\\lor', '\\implies', '\\iff', '\\neg'],quantifiers: ['\\exists', '\\forall']GRAMMAR:
+S->(S)|SCS|SC|CS
+S->P(T)
+S->S=S
+S->QX
+S->w|x|y|z|C|D
+P->P|Q
+X->X,X|w|x|y|z|C|D
+T->T,T|w|x|y|z|C|D|<epsilon>
+C->C,C|\land|\lor|\implies|\iff|\neg
+
+......
+ORIGINAL DATA COLLECTED FROM INPUT: 
+ variables:['w', 'x', 'y', 'z']
+constants: ['C', 'D']
+predicates and their 'arity': {'P': 2, 'Q': 1}
+ equality: ['='], connectives: ['\\land', '\\lor', '\\implies', '\\iff', '\\neg'],quantifiers: ['\\exists', '\\forall']GRAMMAR:
+S->(S)|SCS|SC|CS
+S->P(T)
+S->S=S
+S->QX
+S->w|x|y|z|C|D
+P->P|Q
+X->X,X|w|x|y|z|C|D
+T->T,T|w|x|y|z|C|D|<epsilon>
+C->C,C|\land|\lor|\implies|\iff|\neg
+
+......
+ORIGINAL DATA COLLECTED FROM INPUT: 
+ variables:['w', 'x', 'y', 'z']
+constants: ['C', 'D']
+predicates and their 'arity': {'P': 2, 'Q': 1}
+ equality: ['='], connectives: ['\\land', '\\lor', '\\implies', '\\iff', '\\neg'],quantifiers: ['\\exists', '\\forall']GRAMMAR:
+S->(S)|SCS|SC|CS
+S->P(T)
+S->S=gjhkoklS
+S->QX
+S->w|x|y|z|C|D
+P->P|Q
+X->X,X|w|x|y|z|C|D
+T->T,T|w|x|y|z|C|D|<epsilon>
+C->C,C|\land|\lor|\implies|\iff|\neg
+
+......
+ORIGINAL DATA COLLECTED FROM INPUT: 
+ variables:['w', 'x', 'y', 'z']
+constants: ['C', 'D']
+predicates and their 'arity': {'P': 2, 'Q': 1}
+ equality: ['=gjhkokl'], connectives: ['\\land', '\\lor', '\\implies', '\\iff', '\\neg'],quantifiers: ['\\exists', '\\forall']GRAMMAR:
+S->(S)|SCS|SC|CS
+S->P(T)
+S->S=S
+S->QX
+S->w|x|y|z|C|D
+P->P|Q
+X->X,X|w|x|y|z|C|D
+T->T,T|w|x|y|z|C|D|<epsilon>
+C->C,C|\land|\lor|\implies|\iff|\neg
+
+......
+ORIGINAL DATA COLLECTED FROM INPUT: 
+ variables:['w', 'x', 'y', 'z']
+constants: ['C', 'D']
+predicates and their 'arity': {'P': 2, 'Q': 1}
+ equality: ['='], connectives: ['\\land', '\\lor', '\\implies', '\\iff', '\\neg'],quantifiers: ['\\exists', '\\forall']
